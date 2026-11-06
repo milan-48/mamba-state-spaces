@@ -1,0 +1,24 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Trained model files
+*.pt
+*.pth
+
+# Model checkpoints
+checkpoints/
+
+# macOS
+.DS_Store
+
+# Environment variables
+.env
+.env.*
